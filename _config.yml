@@ -1,0 +1,24 @@
+# Site settings
+title: Il Mio CV - Andrea Maurizzi
+description: Digital Analytics Consultant / Martech Expert
+baseurl: ""
+url: "https://ander85.github.io"
+
+# Build settings
+markdown: kramdown
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Additional site information
+author:
+  name: Andrea Maurizzi
+  email: andrea.maurizzi@example.com
+  linkedin: linkedin.com/in/tuo-profilo
+  github: ander85
+  location: Bologna, Italia
+
+# GitHub Pages plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
